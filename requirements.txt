@@ -1,0 +1,31 @@
+# Backend - Flask/Django and Machine Learning
+Flask==2.3.3
+Flask-Cors==3.0.10
+Django==4.2.5  # If using Django instead of Flask
+tensorflow==2.13.0
+torch==2.0.1
+torchvision==0.15.2
+numpy==1.23.5
+opencv-python==4.8.1.78
+pandas==2.1.1
+scikit-learn==1.3.1
+matplotlib==3.7.3
+Pillow==10.0.1
+
+
+
+# API and Data Parsing
+requests==2.31.0
+jsonschema==4.19.0
+
+# Frontend - React Dependencies (in package.json, for reference)
+# react, react-dom, react-scripts, etc., are managed via npm/yarn.
+
+# Deployment and Containerization
+docker==6.1.2
+gunicorn==20.1.0  # For production-grade Flask deployments
+
+# Miscellaneous Utilities
+pyttsx3==2.90  # For speech synthesis
+logging==0.5.1.2
+dotenv==1.0.0  # For managing environment variables
